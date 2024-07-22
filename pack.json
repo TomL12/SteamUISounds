@@ -31,6 +31,6 @@
   "ui_steam_message_old_smooth.m4a",
   "ui_steam_smoother_friend_join.m4a",
   "ui_steam_smoother_friend_online.m4a"],
-  "mappings": {"deck_ui_misc_10": ["Baba/babamove1.wav", "Baba/babamove2.wav", "Baba/babamove3.wav", "Baba/babamove4.wav"],
-    "deck_ui_navigation.wav": ["Baba/babamove1.wav", "Baba/babamove2.wav", "Baba/babamove3.wav", "Baba/babamove4.wav"]}
+  "mappings": {"deck_ui_misc_10.wav": ["babamove1.wav", "babamove2.wav", "babamove3.wav", "babamove4.wav"],
+    "deck_ui_navigation.wav": ["babamove1.wav", "babamove2.wav", "babamove3.wav", "babamove4.wav"]}
 }
